@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Vanessa
 
 # Your name to show in the footer
-author: Some Person
+author: Vanessa Wong
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://autuni-my.sharepoint.com/:i:/r/personal/qvr9782_autuni_ac_nz/Documents/website/iconsmall.jpg?csf=1&web=1&e=CVCZOl"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,23 +49,23 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "vanessa.h.w@hotmail.com"
+  
+  facebook: vanessa.h.w14
+  github: vanessahw
+  twitter: VanessaHWong
+  patreon: 
+  youtube: 
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: vanessa14
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  stackoverflow: ""
+#  snapchat: 
+#  instagram: vanessa.hw14
+#  spotify: 
+#  telephone: +14056529454
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -87,8 +87,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
@@ -247,7 +247,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "New Zealand/Auckland"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
