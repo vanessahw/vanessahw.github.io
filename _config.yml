@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://autuni-my.sharepoint.com/:i:/r/personal/qvr9782_autuni_ac_nz/Documents/website/iconsmall.jpg?csf=1&web=1&e=CVCZOl"
+avatar: "https://drive.google.com/file/d/10caLclb-K_VCS-mGvOqw7FbsjCKwVk1n/view?usp=sharing"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
